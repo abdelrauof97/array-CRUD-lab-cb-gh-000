@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   cats = ["", "", "", "arrays!", "wow"]
-  cats.pop
+  wow_cat = cats.shift
 end
 
 def remove_element_from_start_of_array(array)
